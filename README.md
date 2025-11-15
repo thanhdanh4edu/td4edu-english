@@ -5,3 +5,8 @@ navigate thru folders by date / month. commit anything related to C1-C2 English 
 - Idioms
 - Phrases, Phrasal verbs, collocations
 - ANY TEST OR PRACTICE TESTS
+- Dictionaries, Websites.
+
+Commit with selection.
+
+THANK YOU FOR COMING!
