@@ -1,12 +1,11 @@
--Longman:               https://www.ldoceonline.com/
--Oxford:                https://www.oxfordlearnersdictionaries.com/
--Cambridge:             https://dictionary.cambridge.org/
--OZDIC:                 https://ozdic.com
--Etymonline:            https://www.etymonline.com/
--WordHippo:             https://www.wordhippo.com/
+- Longman:               https://www.ldoceonline.com/
+- Oxford:                https://www.oxfordlearnersdictionaries.com/
+- Cambridge:             https://dictionary.cambridge.org/
+- OZDIC:                 https://ozdic.com
+- Etymonline:            https://www.etymonline.com/
+- WordHippo:             https://www.wordhippo.com/
 
--TheFreeDictionary:     https://www.thefreedictionary.com/
-  - Sub-directories of TheFreeDictionary: 
-    - Idioms:              https://idioms.thefreedictionary.com/
-    - Thesaurus:           https://www.freethesaurus.com/
-    - Regular:             https://www.thefreedictionary.com/dictionary.htm
+- TheFreeDictionary:     https://www.thefreedictionary.com/
+  - Idioms:              https://idioms.thefreedictionary.com/
+  - Thesaurus:           https://www.freethesaurus.com/
+  - Regular:             https://www.thefreedictionary.com/dictionary.htm
